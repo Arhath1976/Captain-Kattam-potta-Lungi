@@ -1,0 +1,15 @@
+PROMPT -- 01
+
+Generate a 45-year-old stylish South Indian
+young man character's 4-view profile image (front, back, left, right, and 1/3
+view) with a head-to-toe full view. He is wearing a half-sleeve white shirt on
+top of the dark blue lungi with a thick white-colored grid lungi without
+folding it. Also, he is wearing Raybon Sun glass and black-colored sandals. Lighting
+It must be indoor studio light. He is holding an alto saxophone in his left hand.
+
+
+PROMPT -- 02
+
+Generate a 45-year-old stylish South Indian young man character's 4-view profile image (front, back, left, right, and 1/3 view) with a head-to-toe full view.
+He is wearing a half-sleeve white shirt on top of the dark blue lungi with a thick white-colored grid lungi without folding it.
+Also, he is wearing Raybon Sun glass and black-colored sandals.Lighting must be indoor studio light.
